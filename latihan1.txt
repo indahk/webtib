@@ -4,6 +4,6 @@ pemula pembelajaran ngoding menggunakan github
 >>Node JS
 >>JSF
 >>Script ServerSide PHP
-
+>>JQuery
 >>mongoDB
 >>JAVA
